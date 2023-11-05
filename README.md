@@ -1,4 +1,4 @@
-# Image-Display-Windows-
+# Image-Display-Windows
 
 ## Overview
 ### Displays an image on the screen in Windows
